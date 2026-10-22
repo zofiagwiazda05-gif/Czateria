@@ -11,3 +11,4 @@ inteligencji:
 * symboliczne obliczanie pochodnych,
 * symboliczne całkowanie,
 * kierowanie samochodem.
+Uważam że za problemy które można uznać za mieszczące się w zakresie sztucznej inteligencji można uznać wszystkie po za ostatnim punktem.
